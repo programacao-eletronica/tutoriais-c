@@ -1,4 +1,4 @@
-![plot](./img/banner.png)
+![plot](https://raw.githubusercontent.com/programacao-eletronica/img/master/banner.png)
 
 <br /> 
 
