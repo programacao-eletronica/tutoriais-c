@@ -1,4 +1,4 @@
-![plot](https://github.com/programacao-eletronica/tutoriais-c/blob/master/img/banner.png?raw=true)
+![plot](https://raw.githubusercontent.com/programacao-eletronica/img/master/banner.png)
 
 ** **
 
