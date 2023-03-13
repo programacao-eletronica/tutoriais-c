@@ -12,6 +12,7 @@ Todos os códigos dentro deste repositório pertencem à tutoriais descritos no sit
 <br /> 
 
 - [Funções úteis do Standard C](./Hello%20world%20em%20C%20com%20CodeBlocks) <a><img align="right" src="https://img.shields.io/badge/Level-Beginner-green?style=plastic.svg"></a>
+- [Includes e funcionamento do compilador](./includes%20e%20funcionamento%20do%20compilador) <a><img align="right" src="https://img.shields.io/badge/Level-Intermediate-orange?style=plastic.svg"></a>
 - [Hello world em C com CodeBlocks](./Hello%20world%20em%20C%20com%20CodeBlocks) <a><img align="right" src="https://img.shields.io/badge/Level-Beginner-green?style=plastic.svg"></a>
 - [Hello world em C com Visual Studio Community 2022](./Hello%20world%20em%20C%20com%20Visual%20Studio%20Community%202022) <a><img align="right" src="https://img.shields.io/badge/Level-Beginner-green?style=plastic.svg"></a>
 - [Utilizando defines na conversao de dados](./Utilizando%20defines%20na%20conversao%20de%20dados) <a><img align="right" src="https://img.shields.io/badge/Level-Beginner-green?style=plastic.svg"></a>
